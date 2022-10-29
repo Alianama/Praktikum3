@@ -6,7 +6,11 @@ Rumus luas lingkaran L=π*r*r <br/>
 Rumus Keliling lingkaran K=2π*r <br/>
 ![Gambar 1](Gambar/ss1.png)<br/>
 
-Berikut Untuk Foluwchart Program Hitung luas dan Keliling lingkaran
+Berikut Untuk Foluwchart Program Hitung luas dan Keliling lingkaran<br/>
+![Gambar 2](Gambar/ss2.png)<br/>
+
+
+
 
 
  

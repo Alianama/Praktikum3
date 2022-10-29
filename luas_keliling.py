@@ -3,15 +3,16 @@
 print("Perogram Menghitung Luas dan Keliling Lingkarang")
 print("------------------------------------------------")
 
-a=input ("Masukan Jari Lingkaran :")
+import math
 
-print("Jari Jarinya adalah",a)
+r=float(input ("Masukan Jari Lingkaran :"))
 
-p = 3.14
-a = int(a)
-l = p * int(a) * int(a)
-k = 2 * p * int(a)
+print("Jari Jarinya adalah",r)
 
+l = math.pi*(r*r)
+k = 2*math.pi*r
 
+print("------------------------------------------------")
 print("Luas Lingkaran nya adalah =", l)
+print("------------------------------------------------")
 print("Keliling Lingkaran ny adalah =", k)
