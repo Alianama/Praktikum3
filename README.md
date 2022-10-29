@@ -1,5 +1,5 @@
 # Praktikum3
-## Program Menghitung Luas dan Keliling Lingkaran
+## Program Menghitung Luas dan Keliling Lingkaran 🔴
 Perogram ini dibuat untuk menghitung luas dan keliling lingkaran <br/>
 Program menggunakan rumus luas dan keliling lingkaran yang dimasukan ke dalam program python<br/>
 Rumus luas lingkaran L=π*r*r <br/>
@@ -18,7 +18,7 @@ Dan ini untuk hasil perogram nya jika di jalankan pada CMD
 ![Gambar 4](Gambar/ss4.png)<br/>
 
 # Bonus Latihan 
-## Membuat ketupat dengan String format
+## Membuat ketupat dengan String format 🔶
 
 Disini saya hanya Mengubah contoh pada materi yang tadinya angka menjadi * dan menyesuaikan spasi agar terbentuk menjadi ketupat<br/>
 
