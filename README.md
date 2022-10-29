@@ -13,6 +13,11 @@ Disini saya menggunakan [Modul Math](https://www.w3schools.com/python/python_mat
  yang sudah di sediakan oleh python. Fungsinya supaya saya dapat menyertakan nilai phi yang sudah tersedia dalam modul tersebut dengan perintah math.pi jika kita coba mencetak fungsi tersebut maka akan menghasilkan nilai 3.14<br/>
 ![Gambar 3](Gambar/ss3.png)<br/>
 
+Dan ini untuk hasil perogram nya jika di jalankan pada CMD
+
+![Gambar 4](Gambar/ss4.png)<br/>
+
+
 
 
 
