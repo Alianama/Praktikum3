@@ -22,11 +22,13 @@ Dan ini untuk hasil perogram nya jika di jalankan pada CMD
 
 Disini saya hanya Mengubah contoh pada materi yang tadinya angka menjadi * dan menyesuaikan spasi agar terbentuk menjadi ketupat<br/>
 
-Untuk Perogramnya seperti ini
+Untuk Perogramnya seperti ini<br/>
 ![Gambar 5](Gambar/ss5.png)<br/>
 
 Berikut hasilnya jika di jalankan di CMD seperti ini <br/>
 ![Gambar Hasil](Gambar/ss6.png)<br/>
+
+# Sekian dan Terimakasih ☕️
 
 
 
