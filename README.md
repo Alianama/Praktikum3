@@ -17,6 +17,19 @@ Dan ini untuk hasil perogram nya jika di jalankan pada CMD
 
 ![Gambar 4](Gambar/ss4.png)<br/>
 
+# Bonus Latihan 
+## Membuat ketupat dengan String format
+
+Disini saya hanya Mengubah contoh pada materi yang tadinya angka menjadi * dan menyesuaikan spasi agar terbentuk menjadi ketupat<br/>
+
+Untuk Perogramnya seperti ini
+![Gambar 5](Gambar/ss5.png)<br/>
+
+Berikut hasilnya jika di jalankan di CMD seperti ini <br/>
+![Gambar Hasil](Gambar/ss6.png)<br/>
+
+
+
 
 
 

@@ -1,0 +1,12 @@
+# string format
+print('         Ini adalah Script Python')
+print('       -----------------------------')
+print('{0:>3} {1:>19}'.format (0, '*'))
+print('{0:>3} {1:>20}'.format (1, '***'))
+print('{0:>3} {1:>21}'.format (2, '*****'))
+print('{0:>3} {1:>22}'.format (3, '*******'))
+print('{0:>3} {1:>23}'.format (4, '*********'))
+print('{0:>3} {1:>22}'.format (5, '*******'))
+print('{0:>3} {1:>21}'.format (6, '*****'))
+print('{0:>3} {1:>20}'.format (7, '***'))
+print('{0:>3} {1:>19}'.format (8, '*'))
