@@ -9,7 +9,8 @@ Rumus Keliling lingkaran K=2π*r <br/>
 Berikut Untuk Foluwchart Program Hitung luas dan Keliling lingkaran<br/>
 ![Gambar 2](Gambar/ss2.png)<br/>
 
-Disini saya menggunakan modul math yang sudah di sediakan oleh python. Fungsinya supaya saya dapat menyertakan nilai phi yang sudah tersedia dalam modul tersebut dengan perintah math.pi jika kita coba mencetak fungsi tersebut maka akan menghasilkan nilai 3.14<br/>
+Disini saya menggunakan [Modul Math](https://github.com/user/repo/blob/branch/other_file.md)
+ yang sudah di sediakan oleh python. Fungsinya supaya saya dapat menyertakan nilai phi yang sudah tersedia dalam modul tersebut dengan perintah math.pi jika kita coba mencetak fungsi tersebut maka akan menghasilkan nilai 3.14<br/>
 ![Gambar 3](Gambar/ss3.png)<br/>
 
 
